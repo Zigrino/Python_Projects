@@ -1,0 +1,3 @@
+([('main',
+   '/Users/yuli/Documents/python_projects/wordle/dist/main',
+   'EXECUTABLE')],)
